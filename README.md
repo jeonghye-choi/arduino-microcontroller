@@ -1,6 +1,6 @@
 # 컴퓨터 기초 실험
 
-### 📙 [마이크로컨트롤러]()
+### 📙 [마이크로컨트롤러](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/docs/1_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md)
 
 ### 📙 [Arduino 기초 프로그래밍]()
 
