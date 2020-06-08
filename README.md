@@ -1,4 +1,5 @@
 # 컴퓨터 기초 실험
+오픈소스 하드웨어의 핵심인 마이크로프로세서와 그 동작원리를 이해하고, 인터럽트 동작방식과 포트 제어방법, 메모리 응용, I/O프로그래밍, 외부 장치와의 통신 등
 
 ### 📙 [마이크로컨트롤러](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/docs/1_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md)
 
