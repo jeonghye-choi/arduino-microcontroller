@@ -19,7 +19,7 @@
 
 ### 📖 [데이터 처리 함수](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/docs/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%ED%95%A8%EC%88%98.md)
 
-### 📖 []()
+### 📖 [Serial 통신]()
 
 <br>
 
@@ -30,6 +30,25 @@
 ### 💎 [RGB_LED](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/RGB_LED.md)
 
 ### 💎 [오실로코프&함수발생기](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%98%A4%EC%8B%A4%EB%A1%9C%EC%BD%94%ED%94%84%26%ED%95%A8%EC%88%98%EB%B0%9C%EC%83%9D%EA%B8%B0.md)
+
+### 💎 [스피커]()
+
+### 💎 [온도 센서]()
+
+### 💎 [조도 센서]()
+
+### 💎 [7세그먼트]()
+
+### 💎 [text LCD]()
+
+### 💎 [모터]()
+
+### 💎 [적외선 센서]()
+
+### 💎 [초음파 센서]()
+
+### 💎 [가속도 센서]()
+
 
 
 
