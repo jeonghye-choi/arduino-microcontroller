@@ -19,7 +19,7 @@
 
 ### 📖 [데이터 처리 함수](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/docs/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%ED%95%A8%EC%88%98.md)
 
-### 📖 [Serial 통신]()
+### 📖 [Serial 통신](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/docs/Serial%ED%86%B5%EC%8B%A0.md)
 
 <br>
 
@@ -31,23 +31,23 @@
 
 ### 💎 [오실로코프&함수발생기](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%98%A4%EC%8B%A4%EB%A1%9C%EC%BD%94%ED%94%84%26%ED%95%A8%EC%88%98%EB%B0%9C%EC%83%9D%EA%B8%B0.md)
 
-### 💎 [스피커]()
+### 💎 [스피커](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%8A%A4%ED%94%BC%EC%BB%A4.md)
 
-### 💎 [온도 센서]()
+### 💎 [온도 센서](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%98%A8%EB%8F%84%EC%84%BC%EC%84%9C.md)
 
-### 💎 [조도 센서]()
+### 💎 [조도 센서](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%A1%B0%EB%8F%84%EC%84%BC%EC%84%9C.md)
 
-### 💎 [7세그먼트]()
+### 💎 [7세그먼트](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/7%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8.md)
 
-### 💎 [text LCD]()
+### 💎 [text LCD](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/text_LCD.md)
 
-### 💎 [모터]()
+### 💎 [모터](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EB%AA%A8%ED%84%B0.md)
 
-### 💎 [적외선 센서]()
+### 💎 [적외선 센서](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%A0%81%EC%99%B8%EC%84%A0%EC%84%BC%EC%84%9C.md)
 
-### 💎 [초음파 센서]()
+### 💎 [초음파 센서](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EC%B4%88%EC%9D%8C%ED%8C%8C%EC%84%BC%EC%84%9C.md)
 
-### 💎 [가속도 센서]()
+### 💎 [가속도 센서](https://github.com/jeonghye-choi/LAB-Elementary-computer/blob/master/%EB%B6%80%ED%92%88%26%EC%97%B0%EA%B2%B0%EB%B0%A9%EB%B2%95/%EA%B0%80%EC%86%8D%EB%8F%84%EC%84%BC%EC%84%9C.md)
 
 
 
