@@ -23,7 +23,7 @@ String("abc") + 123 : (가능) String객체 + 정수
 
 ### ✔ String Class 함수
 
-string.compareTo(string2)  : 정수로 반환
+string.compareTo(string2)  : 두 문자 아스키코드 비교 -> 음수(string < string2), 0(=), 양수(string > string2)
 
 string.equals()  :  대소문자 구분 -> T/F
 
